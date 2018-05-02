@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class io {
     float volume;
     float luas;
-    float phi;
     float jari;
     formula ope;
     
