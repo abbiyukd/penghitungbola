@@ -2,7 +2,6 @@ package volume_luas_bola;
 
 public class formula {
     public float jari;
-    public float phi;
     public float hasil;
     
     public float rumusvol(){
